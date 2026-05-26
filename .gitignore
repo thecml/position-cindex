@@ -3,17 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Data / generated outputs
-*.csv
-*.pdf
-
 # C extensions
 *.so
 
 # Plots
 plots/*
 tables/*
-data/*
 
 # Distribution / packaging
 .Python
