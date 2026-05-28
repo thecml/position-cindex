@@ -8,9 +8,7 @@
 
 </p>
 
-
-
-This repository contains the code for the controlled experiments for the position paper:
+This repository contains the code for the position paper:
 
 **Stop Chasing the C-index when Evaluating Survival Analysis Models**  
 Christian Marius Lillelund, Shi-ang Qi, Russell Greiner, and Christian Fischer Pedersen<br>
