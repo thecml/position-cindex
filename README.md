@@ -16,7 +16,7 @@ Christian Marius Lillelund, Shi-ang Qi, Russell Greiner, and Christian Fischer P
 
 Preprint: [arXiv:2506.02075](https://arxiv.org/abs/2506.02075)
 
-The paper argues that survival models should be evaluated with metrics whose assumptions match the modeling objective and the censoring assumption. The experiments in this repository illustrate the **ladder hypothesis of model-metric consistency**, which shows that model evaluation can introduce significant bias if censoring is not adjusted for.
+The paper argues that survival models should be evaluated with metrics whose assumptions match the modeling objective and the censoring mechanism. The experiments in this repository illustrate the **ladder hypothesis of model-metric consistency**, which shows that model evaluation can introduce significant bias if censoring is not adjusted for.
 
 Repository contents
 --------
