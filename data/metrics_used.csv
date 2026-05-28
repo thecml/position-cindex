@@ -1,4 +1,4 @@
-Title,CI (Harrell),CI (Uno),CI (Antolini),BS (no IPCW),BS (IPCW),MSE/RMSE,MAE (Uncens),MAE (Hinge),MAE (Margin),MAE (PO),TD-AUC,1-Calib,ECE/ICI,D-Calib,None
+Title,CI (Harrell),CI (Uno),CI (Antolini),Brier score,Brier score (IPCW),MSE/RMSE,MAE (Uncens),MAE (Hinge),MAE (Margin),MAE (PO),TD-AUC,1-Calib,ECE/ICI,D-Calib,None
 A boosting first-hitting-time model for survival analysis in high-dimensional settings,,,,,X,,,,,,,,,,
 A Genetic Algorithm-based Auto-ML System for Survival Analysis,X,,,,,,,,,,,,,,
 A machine learning approach for multimodal data fusion for survival prediction in cancer patients,X,,,,,,,,,,,,,,
