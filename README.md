@@ -1,10 +1,7 @@
 <p align="left">
-  <img height="60" alt="ICML 2026" src="https://github.com/user-attachments/assets/e42c745a-f9f0-4b38-b72b-0fcd172e63ba" />
+  <img height="70" alt="ICML 2026" src="https://github.com/user-attachments/assets/e42c745a-f9f0-4b38-b72b-0fcd172e63ba" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="70" alt="ChatGPT Image May 28, 2026, 09_31_21 PM" src="https://github.com/user-attachments/assets/ce359a67-ec8a-48a9-bfe5-7f30a56cbdaa" />
-  <img height="60" alt="Alberta Machine Intelligence Institute" src="https://github.com/user-attachments/assets/55dcaa79-637d-4443-b179-61fe3ffbe815" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="48" alt="University of Alberta" src="https://github.com/user-attachments/assets/56fc3423-9969-4009-859c-e67919916dd4" />
+  <img height="80" alt="ChatGPT Image May 28, 2026, 09_31_21 PM" src="https://github.com/user-attachments/assets/ce359a67-ec8a-48a9-bfe5-7f30a56cbdaa" />
 
 </p>
 
