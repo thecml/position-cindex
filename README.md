@@ -1,10 +1,3 @@
-<p align="left">
-  <img height="70" alt="ICML 2026" src="https://github.com/user-attachments/assets/e42c745a-f9f0-4b38-b72b-0fcd172e63ba" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="80" alt="ChatGPT Image May 28, 2026, 09_31_21 PM" src="https://github.com/user-attachments/assets/ce359a67-ec8a-48a9-bfe5-7f30a56cbdaa" />
-
-</p>
-
 This repository contains the code for the position paper:
 
 **Stop Chasing the C-index when Evaluating Survival Analysis Models**  
